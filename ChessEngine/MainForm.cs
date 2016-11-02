@@ -69,14 +69,9 @@ namespace ChessEngine
 
         private void btnStart_Click(object sender, EventArgs e)
         {
-            //wScoreActuals = 0;
-            //bScoreActuals = 0;
-            ////tmpWScore = 0;
-            ////tmpBScore = 0;
-            //wBestMove = null;
-            //bBestMove = null;
-            //wBestMoveForecast = null;
-            //bBestMoveForecast = null;           
+           
+
+
 
             setInitialBoard();
 
